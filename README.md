@@ -1,1 +1,1 @@
-# ub-practice-repo
+# ub-bootcamp-repo
